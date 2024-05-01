@@ -1,7 +1,1 @@
-https://hk4-edge22-1.edgeware.tvb.com:443/session/5550a634-04c6-11ef-83e5-005056928c23/__cl/slocalr56/__c/ott_PIN_h264/__op/fps/__f/1/a128000/index_admarker.m3u8
-
-https://hk4-edge22-1.edgeware.tvb.com:443/session/5550a634-04c6-11ef-83e5-005056928c23/__cl/slocalr56/__c/ott_PIN_h264/__op/fps/__f/1/v800000/index_admarker.m3u8
-
-https://hk4-edge22-1.edgeware.tvb.com:443/session/5550a634-04c6-11ef-83e5-005056928c23/__cl/slocalr56/__c/ott_PIN_h264/__op/fps/__f/1/v400000/index_admarker.m3u8
-
-https://edgeware-live.edgeware.tvb.com/__cl/slocalr56/__c/ott_C_h264/__op/fps/__f/index.m3u8?sig=13ac4b8546c544fb704bfb47eb772479&ext_start_limit=1714329873&int_start_limit=1714329873&ts=1714329873&c=382132423&p=4092&mode=admarker,ticks
+http://hk4-edge25-1.edgeware.tvb.com/session/5486298c-07cc-11ef-ac8d-0050569dc1e1/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?token=2f3654bd31d21529f1abc175150fe328_1714662362_1714662362&p=1565&mode=admarker%2Cticks
