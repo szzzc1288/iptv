@@ -1,11 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视-4K",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视-4K",CCTV16-4K
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd4k/15000000
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://58.248.112.203:8006/GD_CUCC/G_CCTV-1-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNS3BUaOzHydbsW8ZFkd%2B8LnKz2KMTmkHrumvpEDKN4AF&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=3c:55:db:3d:7e:21&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=SKYWORTH&gModel=E900V21C&gMac=3c:55:db:3d:7e:21&gStbId=DEFAULT&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.16.3.2602&gTimestamp=1714226533870&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=075540102407865&isIty=1&gCityCode=DEFAULT&verType=0
 
@@ -62,6 +56,12 @@ http://58.248.112.228:8112/GD_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgX
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://58.248.112.228:8112/GD_CUCC/G_CCTV-NEWS.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNVpg3uHYbmaFlABSrpLGSpGJM%2F%2F7snPyS2ssbB3syIi8&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=3c:55:db:3d:7e:21&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=SKYWORTH&gModel=E900V21C&gMac=3c:55:db:3d:7e:21&gStbId=DEFAULT&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.16.3.2602&gTimestamp=1714229758384&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=075540102407865&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=51614ade9f10c0b3
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视-4K",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视-4K",CCTV16-4K
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd4k/15000000
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://58.248.112.203:8006/GD_CUCC/G_GUANGDONG-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNf3EgFNnBSEK7Mtj6tUPEL8gJtIni9UKdvM1oor%2FHDto&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=3c:55:db:3d:7e:21&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=SKYWORTH&gModel=E900V21C&gMac=3c:55:db:3d:7e:21&gStbId=DEFAULT&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.16.3.2602&gTimestamp=1714229761147&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=075540102407865&isIty=1&gCityCode=DEFAULT&verType=0
