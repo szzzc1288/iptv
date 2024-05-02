@@ -235,10 +235,13 @@ http://58.248.112.203:8006/GD_CUCC/G_SDETV.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNW6
 http://58.248.112.203:8006/GD_CUCC/G_JIAJIA.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfJYWbNBBLLp3RSyk%2FIfKlhlGXp7UyXfntUxMjl%2FNvuL&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=3c:55:db:3d:7e:21&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=SKYWORTH&gModel=E900V21C&gMac=3c:55:db:3d:7e:21&gStbId=DEFAULT&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.16.3.2602&gTimestamp=1714237473052&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=075540102407865&isIty=1&gCityCode=DEFAULT&verType=0
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
-http://live.cooltv.top/tv/tvb.php?id=0&hq
+http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 
-#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="无线新闻台备用" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="无线新闻台备用1" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
 http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
+
+#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="无线新闻台备用2" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
+http://live.cooltv.top/tv/tvb.php?id=0
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
