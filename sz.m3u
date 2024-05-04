@@ -238,7 +238,7 @@ http://58.248.112.203:8006/GD_CUCC/G_JIAJIA.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNf
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="无线新闻台备用1" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
-http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
+http://live.cooltv.top/tv/tvb.php?id=0
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
